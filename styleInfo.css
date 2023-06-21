@@ -1,0 +1,30 @@
+body{
+    /*text-decoration: underline;*/
+    background-image: url('./images/dark.jpg');
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    color: white;
+}
+p { 
+	/* #intro color: red;*/
+}
+
+h1 {
+	 text-align: center;
+}
+a {
+    /*  color: blue; */
+}
+
+#Contact p {
+    text-align: center;
+}
+/* ul li {
+    font-weight: bold;
+} */
+
+.firstElement {
+    font-weight: bold;
+}
